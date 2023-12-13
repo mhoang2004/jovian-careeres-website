@@ -1,0 +1,2 @@
+1. flask to build
+2. connect to cloud database
