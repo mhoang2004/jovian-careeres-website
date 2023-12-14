@@ -3,7 +3,8 @@
 
 for drawing: https://excalidraw.com/
 for image: https://unsplash.com/
-for deploy: render.com
+for deploy: https://render.com/
+
 
 {{data}} : for render data
 {% command %}: for exe the python code
@@ -14,3 +15,5 @@ send information as JSON -> rest API (JSON API or API endpoint)
 -> return JSON -> data (so we can do whatever we want) 
 
 API: just a URL, not return HTML, return some data structured data in form of JSON
+
+Web service: database, dynamic data, API route, ...
